@@ -17,7 +17,10 @@ const App = () => {
     } catch (error) {
       console.error(error)
     }
+
   }
+
+
   return (
     <div className="app">
       <section className="side-bar">
